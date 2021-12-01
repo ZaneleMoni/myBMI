@@ -1,0 +1,39 @@
+body{
+    background-color:#362b2e;
+    padding-left: 350px;
+    flex-wrap: wrap;
+    padding-top: 150px;
+    padding-right: 350px;
+    
+}
+.input{
+    color: #362b2e;
+    font-size: medium;
+
+}
+
+#clear{
+margin-top: 25px;
+}
+h1{
+        color: #362b2e;
+
+}
+label{
+    color: aliceblue;
+    font-size: x-large;
+}
+.container{
+    background-color:#94737c;
+    border-style: solid; 
+    position: relative;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+/* .display{
+  box-shadow: 0 0 20px rgba(0,139,253,0.25);
+  margin-bottom: 60px;
+}  */
